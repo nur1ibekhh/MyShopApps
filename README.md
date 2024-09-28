@@ -17,7 +17,6 @@ This is an Android shopping application built using Android Jetpack Compose with
 <div>
 
 <img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.14.01.jpeg" width="30%" /> <!-- Home -->
-<img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.52.jpeg" width="30%" /> <!-- Details -->
 <img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.59.jpeg" width="30%" /> <!-- Page -->
 <img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.57.jpeg" width="30%" /> <!-- My Orders -->
 <img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.50.jpeg" width="30%" /> <!-- Orders Details -->
