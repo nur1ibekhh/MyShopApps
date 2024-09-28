@@ -16,20 +16,20 @@ This is an Android shopping application built using Android Jetpack Compose with
 <div align="center">
 <div>
 
-<img src="https://github.com/prasidhanchan/ShopKart/assets/92362239/de14c493-186f-40ba-b540-4c0f221b59b0" width="30%" /> <!-- Home -->
-<img src="https://github.com/prasidhanchan/ShopKart/assets/92362239/85af39a1-f8c0-4395-8025-cf97fd1cd3d9" width="30%" /> <!-- Details -->
-<img src="https://github.com/prasidhanchan/ShopKart/assets/92362239/f7caf91f-294b-4a9d-ae83-5a6f6c1eeea5" width="30%" /> <!-- Search -->
-<img src="https://github.com/prasidhanchan/ShopKart/assets/92362239/2ddcdb57-1877-4ea5-a0a4-36835fcde3c4" width="30%" /> <!-- My Orders -->
-<img src="https://github.com/prasidhanchan/ShopKart/assets/92362239/2d300ba9-11ea-49bd-9eda-96f511785f2d" width="30%" /> <!-- Orders Details -->
-<img src="https://github.com/prasidhanchan/ShopKart/assets/92362239/ab9da81d-f813-49c3-93a1-9b000585b3e3" width="30%" /> <!-- My Cart -->
-<img src="https://github.com/prasidhanchan/ShopKart/assets/92362239/b60db7d2-6688-4448-8349-5c787215b291" width="30%" /> <!-- My Profile -->
+<img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.14.01.jpeg" width="30%" /> <!-- Home -->
+<img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.52.jpeg" width="30%" /> <!-- Details -->
+<img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.59.jpeg" width="30%" /> <!-- Page -->
+<img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.57.jpeg" width="30%" /> <!-- My Orders -->
+<img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.50.jpeg" width="30%" /> <!-- Orders Details -->
+<img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.54.jpeg" width="30%" /> <!-- My Cart -->
+<img src="https://github.com/nur1ibekhh/MyShopApps/blob/main/.idea/photo_2024-09-28%2011.13.47.jpeg" width="30%" /> <!-- My Profile -->
 </div>
 </div>
 
 ## Prerequisites
 Before running the app, make sure you have the following:
 
-1) Android Studio  2022.2.1 or later.
+1) Android Studio.
 2) Android SDK with a minimum API level of 29 (Android 10).
 3) Firebase project with Firestore or Realtime Database configured.
 4) Google services JSON file (google-services.json) placed in the app module.
